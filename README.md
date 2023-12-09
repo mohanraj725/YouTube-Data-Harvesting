@@ -3,7 +3,7 @@ YouTube Data Harvesting and Warehousing is a project that intends to provide use
 
 TOOLS AND LIBRARIES USED: this project requires the following components:
 
-STREAMLIT: Streamlit library was used to create a user-friendly UI that enables users to interact with the programme and carry out data retrieval and analysis operations.
+** STREAMLIT:** Streamlit library was used to create a user-friendly UI that enables users to interact with the programme and carry out data retrieval and analysis operations.
 
 PYTHON: Python is a powerful programming language renowned for being easy to learn and understand. Python is the primary language employed in this project for the development of the complete application, including data retrieval, processing, analysis, and visualisation.
 
@@ -15,7 +15,7 @@ POSTGRESQL: PostgreSQL is an open-source, advanced, and highly scalable database
 
 YOUTUBE DATA SCRAPPING AND ITS ETHICAL PERSPECTIVE: When engaging in the scraping of YouTube content, it is crucial to approach it ethically and responsibly. Respecting YouTube's terms and conditions, obtaining appropriate authorization, and adhering to data protection regulations are fundamental considerations. The collected data must be handled responsibly, ensuring privacy, confidentiality, and preventing any form of misuse or misrepresentation. Furthermore, it is important to take into account the potential impact on the platform and its community, striving for a fair and sustainable scraping process. By following these ethical guidelines, we can uphold integrity while extracting valuable insights from YouTube data.
 
-REQUIRED LIBRARIES:
+## REQUIRED LIBRARIES:
 
 1.googleapiclient.discovery
 
@@ -35,7 +35,7 @@ Migration of data from the data lake to a SQL database for efficient querying an
 
 Search and retrieval of data from the SQL database using different search options.
 
-References
+## References
 
 1. Streamlit Documentation: https://docs.streamlit.io/
 2. YouTube API Documentation: https://developers.google.com/youtube/
