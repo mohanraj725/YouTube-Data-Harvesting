@@ -34,3 +34,12 @@ Storage of data in a MongoDB database as a data lake.
 Migration of data from the data lake to a SQL database for efficient querying and analysis.
 
 Search and retrieval of data from the SQL database using different search options.
+
+References
+
+Streamlit Documentation: https://docs.streamlit.io/
+YouTube API Documentation: https://developers.google.com/youtube
+MongoDB Documentation: https://docs.mongodb.com/
+Python Documentation: https://docs.python.org/
+Pandas Documentation: https://pandas.pydata.org/docs/
+ PostgreSQL Documentation: https://www.psycopg.org/docs/
