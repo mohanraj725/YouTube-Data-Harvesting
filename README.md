@@ -37,9 +37,9 @@ Search and retrieval of data from the SQL database using different search option
 
 References
 
-Streamlit Documentation: https://docs.streamlit.io/
-YouTube API Documentation: https://developers.google.com/youtube
-MongoDB Documentation: https://docs.mongodb.com/
-Python Documentation: https://docs.python.org/
-Pandas Documentation: https://pandas.pydata.org/docs/
- PostgreSQL Documentation: https://www.psycopg.org/docs/
+1. Streamlit Documentation: https://docs.streamlit.io/
+2. YouTube API Documentation: https://developers.google.com/youtube/
+3. MongoDB Documentation: https://docs.mongodb.com/
+4. Python Documentation: https://docs.python.org/
+5. Pandas Documentation: https://pandas.pydata.org/docs/
+6. PostgreSQL Documentation: https://www.psycopg.org/docs/
